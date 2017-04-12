@@ -1,8 +1,10 @@
 package com.example.aharshberger.myapplication_grab_bag;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -12,6 +14,7 @@ import static com.example.aharshberger.myapplication_grab_bag.R.id.webview;
 public class MainActivity extends AppCompatActivity {
 
     WebView webView;
+    String URL;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,8 +24,10 @@ public class MainActivity extends AppCompatActivity {
         webView = (WebView) findViewById(webview);
         //forces to open within app
 
+        URL = "http://www.google.com";
+
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("http://www.ideou.com");
+        webView.loadUrl(URL);
 
         webView.getSettings().setJavaScriptEnabled(true);
         webView.getSettings().setLoadWithOverviewMode(true);
@@ -52,5 +57,16 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+    }
+
+    public void clickingDoSomething(View view) {
+        URL = "http://www.ideou.com";
+        webView.loadUrl(URL);
+
+    }
+
+    public void clickingShowCool(View view) {
+        Intent intent = new Intent(MainActivity.this, Main2Activity.class);
+        startActivity(intent);
     }
 }
