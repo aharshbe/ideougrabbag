@@ -38,7 +38,7 @@ public class Spash_Screen extends AppCompatActivity {
                 try {
                     // Thread will sleep for 5 seconds
 
-                    sleep(4  * 1000);
+                    sleep(4  * 500);
 
 
                     // After 5 seconds redirect to another intent

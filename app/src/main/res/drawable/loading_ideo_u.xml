@@ -3,150 +3,150 @@
 
     <item
         android:drawable="@drawable/ideogif1"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif2"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif3"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif4"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif5"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif6"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif7"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif8"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif9"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif10"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif11"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif12"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif13"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif14"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif15"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif16"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif17"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif18"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif19"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif20"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif21"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif22"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif23"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif24"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif25"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif26"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif27"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif28"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif29"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif30"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif31"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif32"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif33"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif34"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif35"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif36"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif37"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif38"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif39"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif40"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif41"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif42"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif43"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif44"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif45"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif46"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif47"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif48"
-        android:duration="100"/>
+        android:duration="50"/>
     <item
         android:drawable="@drawable/ideogif49"
-        android:duration="100"/>
+        android:duration="50"/>
 
 </animation-list>
